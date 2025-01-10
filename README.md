@@ -1,8 +1,13 @@
-## Hi there 👋
+### Hi, I’m Kinya! 
+
+🧑🏽‍💻 Software Engineer who enjoys learning new things</br>
+
+🧑🏽‍🎓 Student Computer Science at the University of Kingston, United Kingdom</br>
+
+💭 Currently learning about [machine learning](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)</br>
+
 
 <!--
-**kinyar/kinyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
