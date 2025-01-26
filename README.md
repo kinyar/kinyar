@@ -1,7 +1,7 @@
 ### 👋🏽 Hi, I’m Kinya! 
 ---
 🧑🏽‍💻 Software Engineer who enjoys learning new things</br>
-🧑🏽‍🎓 Student Computer Science at the University of Kingston, United Kingdom</br>
+🧑🏽‍🎓 Computer Science Student at the University of Kingston, United Kingdom</br>
 💭 Currently learning about [machine learning](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)</br>
 
 ### 💻 Tech Stack
